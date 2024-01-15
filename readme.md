@@ -6,6 +6,7 @@ tags:
   - expressJS
   - react
   - nodeJs
+  - nextJs
 ---
 
 ## What is MERN Login
