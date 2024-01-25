@@ -50,4 +50,4 @@ shadcn is relatively new, but the improvement is quite significant. what I like 
 - on server `create` file `.env` contains MONGO_URL=your mongo url and JWT_SECRET=free as an example got me JWT_SECRET=5254236452145
 - then on server `npm start` or `node --watch server.js` node --watch for auto update the backend side and `can be used in node v18 and above`.
 - done
-- if you have an error contact me
+- if you have an error contact me!
